@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hola! soy Gerson 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Coder;Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
 
 ###
 
@@ -37,16 +41,21 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gersonfocusfwd&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonfocusfwd&layout=compact&theme=dracula&border_radius=10" height="150" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gersonfocusfwd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=gersonfocusfwd&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
