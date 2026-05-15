@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=350&section=header&text=Gerson%20Fuentes&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=⚡%20Full%20Stack%20Developer%20⚡&descAlignY=70&descAlign=50&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/radar_bg.svg" alt="Header" />
+  <img src="./assets/perfil_final.svg" alt="Gerson Fuentes - Full Stack Developer" width="100%" />
 </div>
 
 <div align="center">
-  <h2>📟 Desarrollador Senior | Especialista en Frontend y Backend 📟</h2>
   <p>Explorando nuevas fronteras digitales y construyendo sistemas de escala galáctica.</p>
 </div>
 
