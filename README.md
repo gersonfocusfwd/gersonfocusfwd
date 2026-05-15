@@ -94,7 +94,6 @@
 
 <div align="center">
   <h3>📊 Estadísticas de GitHub</h3>
-</div>
   <img src="https://github-readme-stats.vercel.app/api?username=gersonfocusfwd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="180" alt="stats card" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonfocusfwd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="top langs card" />
   <br>
