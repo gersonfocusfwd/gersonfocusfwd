@@ -47,22 +47,41 @@
 <br>
 
 <div align="center">
-  <h3>💼 Proyectos Profesionales Destacados</h3>
+  <h2>🌟 Trabajo Profesional Destacado 🌟</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=🏅%20Olimpiadas%20Especiales&fontSize=35&fontColor=58a6ff&desc=Plataforma%20Profesional%20de%20Gestión&descAlignY=75&descAlign=50" alt="Olimpiadas Especiales" />
+</div>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="800">
+        <br>
+        <p><b>Impacto Real • Manejo Seguro de Datos • Rendimiento Optimizado</b></p>
+        <p><i>Sistema integral de registro y administración diseñado para un entorno real. Desarrollado con los más altos estándares de calidad, garantizando interfaces intuitivas, escalabilidad y una seguridad estricta en el manejo de datos sensibles.</i></p>
+        <br>
+        <img src="https://img.shields.io/badge/Status-Producción-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Status" />
+        <img src="https://img.shields.io/badge/Rol-Full_Stack_Developer-1f6feb?style=for-the-badge&logo=react&logoColor=white" alt="Rol" />
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🧪 Prácticas & Conceptos Avanzados</h3>
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Sistema_Bancario-111111?style=for-the-badge&logo=bank&logoColor=white" alt="Banco" /><br>
-      <p><i>Arquitectura MVC, autenticación segura con JWT, base de datos gestionada mediante Sequelize (ORM), y panel interactivo.</i></p>
+    <td align="center" width="400">
+      <img src="https://img.shields.io/badge/Sistema_Bancario-111111?style=for-the-badge&logo=bank&logoColor=white" alt="Banco" /><br><br>
+      <p><i>Demostración de Backend robusto y Arquitectura MVC. Implementa autenticación segura (JWT), base de datos con ORM (Sequelize) y simulaciones de crédito en tiempo real.</i></p>
     </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Proyecto_Aguacate-111111?style=for-the-badge&logo=foodpanda&logoColor=white" alt="Aguacate" /><br>
-      <p><i>Aplicación frontend dinámica y moderna, con un rendimiento impecable y una UX/UI altamente inmersiva y estética.</i></p>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Olimpiadas_Especiales-111111?style=for-the-badge&logo=star&logoColor=white" alt="Olimpiadas" /><br>
-      <p><i>Plataforma de registro y administración integral, manejo seguro de datos con interfaces limpias y accesibles.</i></p>
+    <td align="center" width="400">
+      <img src="https://img.shields.io/badge/Proyecto_Aguacate-111111?style=for-the-badge&logo=foodpanda&logoColor=white" alt="Aguacate" /><br><br>
+      <p><i>Demostración de Frontend inmersivo. Enfoque absoluto en UI/UX moderna, interactividad fluida, diseño responsive y rendimiento óptimo en la web.</i></p>
     </td>
   </tr>
 </table>
