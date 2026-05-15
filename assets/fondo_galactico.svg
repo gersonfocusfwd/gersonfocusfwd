@@ -1,0 +1,66 @@
+<svg width="1000" height="400" viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo de Espacio Profundo -->
+  <rect width="1000" height="400" fill="#020205"/>
+  
+  <!-- Nebulosas Sutiles -->
+  <circle cx="300" cy="200" r="200" fill="url(#nebula_purple)" opacity="0.2"/>
+  <circle cx="700" cy="150" r="250" fill="url(#nebula_blue)" opacity="0.15"/>
+  
+  <defs>
+    <radialGradient id="nebula_purple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(300 200) rotate(90) scale(200)">
+      <stop offset="0" stop-color="#4B0082" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#020205" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula_blue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(700 150) rotate(90) scale(250)">
+      <stop offset="0" stop-color="#00008B" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#020205" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Partículas/Estrellas en Movimiento (Simulando viaje espacial) -->
+  <!-- Capa 1: Lentas/Pequeñas -->
+  <g>
+    <circle r="0.8" fill="white">
+      <animate attributeName="cx" from="1100" to="-100" dur="20s" repeatCount="indefinite" begin="0s" />
+      <animate attributeName="cy" values="50;55;50" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle r="0.5" fill="white">
+      <animate attributeName="cx" from="1100" to="-100" dur="25s" repeatCount="indefinite" begin="-5s" />
+      <animate attributeName="cy" values="200;190;200" dur="12s" repeatCount="indefinite" />
+    </circle>
+    <circle r="0.7" fill="white">
+      <animate attributeName="cx" from="1100" to="-100" dur="22s" repeatCount="indefinite" begin="-12s" />
+      <animate attributeName="cy" values="350;360;350" dur="15s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Capa 2: Medianas/Velocidad Media -->
+  <g>
+    <circle r="1.2" fill="white">
+      <animate attributeName="cx" from="1100" to="-100" dur="12s" repeatCount="indefinite" begin="-2s" />
+      <animate attributeName="cy" values="100;110;100" dur="8s" repeatCount="indefinite" />
+    </circle>
+    <circle r="1" fill="#ADD8E6">
+      <animate attributeName="cx" from="1100" to="-100" dur="15s" repeatCount="indefinite" begin="-8s" />
+      <animate attributeName="cy" values="300;280;300" dur="10s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Capa 3: Grandes/Rápidas (Efecto Parallax) -->
+  <g>
+    <circle r="1.8" fill="white" opacity="0.8">
+      <animate attributeName="cx" from="1100" to="-100" dur="6s" repeatCount="indefinite" begin="-1s" />
+      <animate attributeName="cy" values="150;160;150" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle r="1.5" fill="white" opacity="0.6">
+      <animate attributeName="cx" from="1100" to="-100" dur="8s" repeatCount="indefinite" begin="-4s" />
+      <animate attributeName="cy" values="250;240;250" dur="6s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Texto Principal -->
+  <text x="500" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="60">Gerson Fuentes</text>
+  <text x="500" y="230" text-anchor="middle" fill="#00FFCC" font-family="Arial, sans-serif" font-size="24" font-weight="bold">⚡ Full Stack Developer ⚡</text>
+  <text x="500" y="270" text-anchor="middle" fill="#cccccc" font-family="Arial, sans-serif" font-size="18">Desarrollador Senior | Especialista en Frontend y Backend</text>
+
+</svg>

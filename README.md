@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/perfil_final.svg" alt="Gerson Fuentes - Full Stack Developer" width="100%" />
+  <img src="./assets/fondo_galactico.svg" alt="Gerson Fuentes - Galaxia" width="100%" />
 </div>
 
 <div align="center">
