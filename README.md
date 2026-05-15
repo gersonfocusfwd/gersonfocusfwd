@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="./assets/fondo_galactico.svg" alt="Gerson Fuentes - Galaxia" width="100%" />
+  <img src="./assets/galaxia_realista.svg" alt="Gerson Fuentes - Galaxia Realista" width="100%" />
 </div>
 
 <div align="center">
   <p>Explorando nuevas fronteras digitales y construyendo sistemas de escala galáctica.</p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
 <br>
@@ -95,8 +101,7 @@
   <img src="https://streak-stats.demolab.com?user=gersonfocusfwd&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="streak card" />
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/output/pacman-contribution-graph.svg">
   </picture>
 </div>
