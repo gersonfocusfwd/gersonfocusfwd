@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7a2dfa,100:000000&height=200&section=header&text=Gerson%20Fuentes&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000000,50:7a2dfa88,100:00000000&height=280&section=header&text=Gerson%20Fuentes&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=70&descAlign=50&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/space_bg.png" alt="Header" />
 </div>
 
 <div align="center">
-  <h2>✦ Desarrollador Senior | Especialista en Frontend y Backend ✦</h2>
-  <p>Diseñando experiencias digitales inmersivas y construyendo sistemas robustos.</p>
+  <h2>🛸 Desarrollador Senior | Especialista en Frontend y Backend 🛸</h2>
+  <p>Explorando nuevas fronteras digitales y construyendo sistemas de escala galáctica.</p>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>🌌 Tecnologías & Herramientas</h3>
+  <h3>☄️ Tecnologías & Herramientas del Cosmos</h3>
 </div>
 
 <table align="center">
@@ -47,7 +47,7 @@
 <br>
 
 <div align="center">
-  <h2>🌟 Trabajo Profesional Destacado 🌟</h2>
+  <h2>🚀 Proyectos de Alto Impacto 🚀</h2>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=🏅%20Olimpiadas%20Especiales&fontSize=35&fontColor=58a6ff&desc=Plataforma%20Profesional%20de%20Gestión&descAlignY=75&descAlign=50" alt="Olimpiadas Especiales" />
 </div>
 
@@ -70,7 +70,7 @@
 <br>
 
 <div align="center">
-  <h3>🧪 Prácticas & Conceptos Avanzados</h3>
+  <h3>🛰️ Misiones & Conceptos Avanzados</h3>
 </div>
 
 <table align="center">
@@ -105,7 +105,7 @@
 <br>
 
 <div align="center">
-  <h3>📫 Contáctame</h3>
+  <h3>📡 Contacto Estelar</h3>
   <a href="mailto:dinartegerson@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
