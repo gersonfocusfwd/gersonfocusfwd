@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=200&section=header&text=Gerson%20Dinarte&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=200&section=header&text=Gerson%20Fuentes&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=70&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
@@ -106,8 +106,10 @@
 
 <div align="center">
   <h3>📫 Contáctame</h3>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=2b2d31&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+  <a href="mailto:dinartegerson@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+  <a href="https://www.instagram.com/gerson__focus/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
 </div>
