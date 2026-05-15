@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h2>✦ Experto en Desarrollo Web & Arquitectura de Software ✦</h2>
-  <p>Transformando ideas en experiencias digitales inmersivas y sistemas robustos.</p>
+  <h2>✦ Desarrollador Senior | Especialista en Frontend y Backend ✦</h2>
+  <p>Diseñando experiencias digitales inmersivas y construyendo sistemas robustos.</p>
 </div>
 
 <br>
