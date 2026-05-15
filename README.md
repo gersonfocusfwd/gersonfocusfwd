@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000000,50:7a2dfa88,100:00000000&height=280&section=header&text=Gerson%20Fuentes&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=70&descAlign=50&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/space_bg.png" alt="Header" />
+  <img src="./assets/tech_banner.svg" alt="Tech Banner" width="100%" />
 </div>
 
 <div align="center">
-  <h2>🛸 Desarrollador Senior | Especialista en Frontend y Backend 🛸</h2>
+  <h1 align="center" style="color: #39FF14;">Gerson Fuentes</h1>
+  <h3 align="center" style="color: #39FF14;">⚡ Full Stack Developer ⚡</h3>
+  <h2>📟 Desarrollador Senior | Especialista en Frontend y Backend 📟</h2>
   <p>Explorando nuevas fronteras digitales y construyendo sistemas de escala galáctica.</p>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>☄️ Tecnologías & Herramientas del Cosmos</h3>
+  <h3 style="color: #39FF14;">☄️ Tecnologías & Herramientas del Cosmos</h3>
 </div>
 
 <table align="center">

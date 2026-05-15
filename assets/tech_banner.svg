@@ -1,0 +1,44 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="300" fill="#0A0A0A"/>
+  
+  <!-- Grid Lines -->
+  <g opacity="0.2">
+    <path d="M0 50H1000M0 100H1000M0 150H1000M0 200H1000M0 250H1000" stroke="#00FF41" stroke-width="1"/>
+    <path d="M50 0V300M100 0V300M150 0V300M200 0V300M250 0V300M300 0V300M350 0V300M400 0V300M450 0V300M500 0V300M550 0V300M600 0V300M650 0V300M700 0V300M750 0V300M800 0V300M850 0V300M900 0V300M950 0V300" stroke="#00FF41" stroke-width="1"/>
+  </g>
+
+  <!-- Animated Particles -->
+  <circle r="3" fill="#39FF14">
+    <animate attributeName="cx" values="100;120;100" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="100;80;100" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="5s" repeatCount="indefinite" />
+  </circle>
+  
+  <circle r="4" fill="#39FF14">
+    <animate attributeName="cx" values="400;380;400" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="200;220;200" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="7s" repeatCount="indefinite" />
+  </circle>
+
+  <circle r="2" fill="#39FF14">
+    <animate attributeName="cx" values="800;850;800" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="50;100;50" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.1;0.9;0.1" dur="6s" repeatCount="indefinite" />
+  </circle>
+
+  <circle r="5" fill="#39FF14">
+    <animate attributeName="cx" values="200;250;200" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="250;200;250" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.4;0.6;0.4" dur="8s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Pulsing Glow -->
+  <rect width="1000" height="300" fill="url(#paint0_radial)" fill-opacity="0.5"/>
+  
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(500 150) rotate(90) scale(150 500)">
+      <stop offset="0" stop-color="#00FF41" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
