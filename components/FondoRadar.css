@@ -1,0 +1,78 @@
+.radar-container {
+  width: 100%;
+  height: 400px;
+  background-color: #000;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid #00ff4133;
+}
+
+.radar-grid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    linear-gradient(#00ff4122 1px, transparent 1px),
+    linear-gradient(90deg, #00ff4122 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+.radar-scan {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200%;
+  height: 200%;
+  background: conic-gradient(from 0deg, transparent 0%, #39ff1488 100%);
+  transform-origin: center center;
+  transform: translate(-50%, -50%);
+  animation: radar-rotate linear infinite;
+  pointer-events: none;
+}
+
+.radar-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  background-color: #39ff14;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 15px #39ff14;
+  z-index: 10;
+}
+
+.radar-point {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background-color: #39ff14;
+  border-radius: 50%;
+  box-shadow: 0 0 8px #39ff14;
+  animation: point-blink 2s infinite ease-in-out;
+}
+
+.radar-info {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: #39ff14;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+@keyframes radar-rotate {
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+@keyframes point-blink {
+  0%, 100% { opacity: 0; transform: scale(0.5); }
+  50% { opacity: 1; transform: scale(1.2); }
+}
