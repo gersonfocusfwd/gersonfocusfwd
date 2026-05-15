@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <h3>☄️ Tecnologías & Herramientas del Cosmos</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=120&section=header&text=☄️%20Tecnologías%20del%20Cosmos&fontSize=35&fontColor=ffffff&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg" alt="Tech Header" />
 </div>
 
 <table align="center">
@@ -52,8 +52,7 @@
 <br>
 
 <div align="center">
-  <h2>🚀 Proyectos de Alto Impacto 🚀</h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=🏅%20Olimpiadas%20Especiales&fontSize=35&fontColor=58a6ff&desc=Plataforma%20Profesional%20de%20Gestión&descAlignY=75&descAlign=50" alt="Olimpiadas Especiales" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=120&section=header&text=🚀%20Olimpiadas%20Especiales&fontSize=35&fontColor=ffffff&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg" alt="Project Header" />
 </div>
 
 <div align="center">
@@ -75,7 +74,7 @@
 <br>
 
 <div align="center">
-  <h3>🛰️ Misiones & Conceptos Avanzados</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=120&section=header&text=🛰️%20Misiones%20Avanzadas&fontSize=35&fontColor=ffffff&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg" alt="Missions Header" />
 </div>
 
 <table align="center">
@@ -94,7 +93,8 @@
 <br>
 
 <div align="center">
-  <h3>📊 Estadísticas de GitHub</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=120&section=header&text=📊%20Estadísticas%20Estelares&fontSize=35&fontColor=ffffff&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg" alt="Stats Header" />
+</div>
   <img src="https://github-readme-stats.vercel.app/api?username=gersonfocusfwd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="180" alt="stats card" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonfocusfwd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="top langs card" />
   <br>
