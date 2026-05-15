@@ -1,26 +1,25 @@
-<svg width="1000" height="600" viewBox="0 0 1000 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Espacio Profundo -->
-  <rect width="1000" height="600" fill="#010103"/>
+  <rect width="1000" height="300" fill="#010103"/>
   
   <!-- Nebulosa Dinámica -->
-  <circle cx="200" cy="150" r="300" fill="url(#nebula_p)" opacity="0.15">
+  <circle cx="200" cy="100" r="200" fill="url(#nebula_p)" opacity="0.15">
     <animate attributeName="opacity" values="0.1;0.2;0.1" dur="10s" repeatCount="indefinite" />
   </circle>
-  <circle cx="800" cy="450" r="350" fill="url(#nebula_b)" opacity="0.1">
+  <circle cx="800" cy="200" r="250" fill="url(#nebula_b)" opacity="0.1">
     <animate attributeName="opacity" values="0.05;0.15;0.05" dur="15s" repeatCount="indefinite" />
   </circle>
 
   <defs>
-    <radialGradient id="nebula_p" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 150) rotate(90) scale(300)">
+    <radialGradient id="nebula_p" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 100) rotate(90) scale(200)">
       <stop offset="0" stop-color="#2D004D" stop-opacity="0.8"/>
       <stop offset="1" stop-color="#010103" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="nebula_b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 450) rotate(90) scale(350)">
+    <radialGradient id="nebula_b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 200) rotate(90) scale(250)">
       <stop offset="0" stop-color="#001F3F" stop-opacity="0.7"/>
       <stop offset="1" stop-color="#010103" stop-opacity="0"/>
     </radialGradient>
     
-    <!-- Efecto de Brillo para Estrellas -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
       <feMerge>
@@ -30,18 +29,8 @@
     </filter>
   </defs>
 
-  <!-- Capa 1: Estrellas de Fondo (Twinkling) -->
-  <g id="stars-background">
-    <circle cx="150" cy="100" r="0.5" fill="white"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" /></circle>
-    <circle cx="450" cy="500" r="0.4" fill="white"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="5s" repeatCount="indefinite" /></circle>
-    <circle cx="850" cy="50" r="0.6" fill="white"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite" /></circle>
-    <circle cx="950" cy="550" r="0.3" fill="white"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4s" repeatCount="indefinite" /></circle>
-    <circle cx="50" cy="400" r="0.5" fill="white"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="6s" repeatCount="indefinite" /></circle>
-  </g>
-
-  <!-- Capa 2: Partículas Realistas en Movimiento (Viaje Galáctico) -->
-  <!-- Partículas Pequeñas y Lentas -->
-  <g id="particles-slow">
+  <!-- Partículas Lentas -->
+  <g>
     <circle r="0.8" fill="white">
       <animate attributeName="cx" from="1100" to="-100" dur="25s" repeatCount="indefinite" begin="0s" />
       <animate attributeName="cy" values="50;60;50" dur="12s" repeatCount="indefinite" />
@@ -52,11 +41,11 @@
     </circle>
   </g>
 
-  <!-- Partículas Medianas con Glow (Efecto Realista) -->
-  <g id="particles-mid" filter="url(#glow)">
+  <!-- Partículas Medianas con Glow -->
+  <g filter="url(#glow)">
     <circle r="1.2" fill="white">
       <animate attributeName="cx" from="1100" to="-100" dur="15s" repeatCount="indefinite" begin="-2s" />
-      <animate attributeName="cy" values="400;420;400" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="100;120;100" dur="8s" repeatCount="indefinite" />
     </circle>
     <circle r="1.5" fill="#FFFACD">
       <animate attributeName="cx" from="1100" to="-100" dur="18s" repeatCount="indefinite" begin="-10s" />
@@ -64,27 +53,23 @@
     </circle>
   </g>
 
-  <!-- Partículas Rápidas (Motion Blur) -->
-  <g id="particles-fast">
+  <!-- Partículas Rápidas -->
+  <g>
     <rect width="10" height="1.5" fill="white" opacity="0.6">
       <animate attributeName="x" from="1100" to="-100" dur="6s" repeatCount="indefinite" begin="-1s" />
-      <animate attributeName="y" values="300;305;300" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <rect width="8" height="1" fill="#ADD8E6" opacity="0.4">
-      <animate attributeName="x" from="1100" to="-100" dur="8s" repeatCount="indefinite" begin="-4s" />
-      <animate attributeName="y" values="500;490;500" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="y" values="200;205;200" dur="4s" repeatCount="indefinite" />
     </rect>
   </g>
 
-  <!-- Cometa ocasional -->
+  <!-- Cometa -->
   <path d="M 0 0 L 50 2" stroke="white" stroke-width="1" opacity="0">
     <animate attributeName="d" values="M 1100 50 L 1150 52; M -200 150 L -150 152" dur="3s" repeatCount="indefinite" begin="7s" />
     <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite" begin="7s" />
   </path>
 
   <!-- Textos -->
-  <text x="500" y="280" text-anchor="middle" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-weight="bold" font-size="70" filter="url(#glow)">Gerson Fuentes</text>
-  <text x="500" y="340" text-anchor="middle" fill="#00FFCC" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="bold">⚡ Full Stack Developer ⚡</text>
-  <text x="500" y="385" text-anchor="middle" fill="#cccccc" font-family="'Segoe UI', Arial, sans-serif" font-size="20">Desarrollador Senior | Especialista en Frontend y Backend</text>
+  <text x="500" y="140" text-anchor="middle" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-weight="bold" font-size="60" filter="url(#glow)">Gerson Fuentes</text>
+  <text x="500" y="190" text-anchor="middle" fill="#00FFCC" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="bold">⚡ Full Stack Developer ⚡</text>
+  <text x="500" y="230" text-anchor="middle" fill="#cccccc" font-family="'Segoe UI', Arial, sans-serif" font-size="18">Desarrollador Senior | Especialista en Frontend y Backend</text>
 
 </svg>

@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=120&section=header&text=☄️%20Tecnologías%20del%20Cosmos&fontSize=35&fontColor=ffffff&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg" alt="Tech Header" />
+  <h3>☄️ Tecnologías & Herramientas del Cosmos</h3>
 </div>
 
 <table align="center">
@@ -52,7 +52,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=120&section=header&text=🚀%20Olimpiadas%20Especiales&fontSize=35&fontColor=ffffff&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg" alt="Project Header" />
+  <h2>🚀 Proyectos de Alto Impacto 🚀</h2>
 </div>
 
 <div align="center">
@@ -74,7 +74,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=120&section=header&text=🛰️%20Misiones%20Avanzadas&fontSize=35&fontColor=ffffff&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg" alt="Missions Header" />
+  <h3>🛰️ Misiones & Conceptos Avanzados</h3>
 </div>
 
 <table align="center">
@@ -93,7 +93,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=120&section=header&text=📊%20Estadísticas%20Estelares&fontSize=35&fontColor=ffffff&customBgURL=https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg" alt="Stats Header" />
+  <h3>📊 Estadísticas de GitHub</h3>
 </div>
   <img src="https://github-readme-stats.vercel.app/api?username=gersonfocusfwd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="180" alt="stats card" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonfocusfwd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="top langs card" />
@@ -101,7 +101,8 @@
   <img src="https://streak-stats.demolab.com?user=gersonfocusfwd&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="streak card" />
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/main/assets/galaxia_realista.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gersonfocusfwd/gersonfocusfwd/output/pacman-contribution-graph.svg">
   </picture>
 </div>
