@@ -21,12 +21,12 @@
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <b>🖥️ Frontend</b><br><br>
+      <b>Frontend</b><br><br>
       <img src="https://skillicons.dev/icons?i=react,vite,js,css,threejs" alt="Frontend Tech" /><br><br>
       <sub>React • Vite • JS (ES6+) • CSS Puro • Three.js</sub>
     </td>
     <td align="center" width="250">
-      <b>⚙️ Backend</b><br><br>
+      <b>Backend</b><br><br>
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" /><br>
       <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" alt="Sequelize" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" /><br>
@@ -35,13 +35,13 @@
   </tr>
   <tr>
     <td align="center" width="250">
-      <b>🗄️ Bases de Datos</b><br><br>
+      <b>Bases de Datos</b><br><br>
       <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="DBs" /><br>
       <img src="https://img.shields.io/badge/JSON_Server-323330?style=flat-square&logo=json&logoColor=white" alt="JSON Server" /><br>
       <sub>PostgreSQL • MySQL • JSON Server</sub>
     </td>
     <td align="center" width="250">
-      <b>🛠️ Herramientas & Flujo</b><br><br>
+      <b>Herramientas & Desarrollo</b><br><br>
       <img src="https://skillicons.dev/icons?i=git,postman" alt="Tools" /><br>
       <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" alt="Trello" /><br>
       <sub>Git • Postman • Trello • Metodologías Ágiles</sub>
@@ -62,8 +62,8 @@
         <br>
         <h3>Olimpiadas Especiales Costa Rica</h3>
         <p><b>Plataforma Web Institucional y Comunitaria</b></p>
-        <p><i>Es una plataforma web institucional y comunitaria dedicada a Olimpiadas Especiales Costa Rica. Su objetivo principal es visibilizar el deporte inclusivo, centralizar la información de las disciplinas, gestionar eventos, captar voluntarios o donaciones, y automatizar los registros de los atletas en el país.</i></p>
-        <p><i>Desarrollo integral realizado tanto en el Front-end como en el Back-end.</i></p>
+        <p><i>Plataforma web institucional y comunitaria desarrollada para Olimpiadas Especiales Costa Rica. Su objetivo principal consiste en promover y visibilizar el deporte inclusivo, centralizar la información de las disciplinas deportivas, gestionar eventos a nivel nacional, captar voluntarios y donaciones, así como automatizar el registro y control de atletas en todo el país.</i></p>
+        <p><i>Desarrollo integral (Full Stack) implementando tanto la interfaz de usuario (Front-end) como la lógica del servidor y persistencia de datos (Back-end).</i></p>
         <br>
         <img src="https://img.shields.io/badge/Status-Producción-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Status" />
         <img src="https://img.shields.io/badge/Rol-Full_Stack_Developer-1f6feb?style=for-the-badge&logo=react&logoColor=white" alt="Rol" />
@@ -76,18 +76,18 @@
 <br>
 
 <div align="center">
-  <h3>🛰️ Misiones & Conceptos Avanzados</h3>
+  <h3>Misiones & Conceptos Avanzados</h3>
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="400">
       <img src="https://img.shields.io/badge/Sistema_Bancario-111111?style=for-the-badge&logo=bank&logoColor=white" alt="Banco" /><br><br>
-      <p><i>Demostración de Backend robusto y Arquitectura MVC. Implementa autenticación segura (JWT), base de datos con ORM (Sequelize) y simulaciones de crédito en tiempo real.</i></p>
+      <p><i>Demostración de Backend robusto y arquitectura MVC. Implementa autenticación segura mediante JWT, base de datos relacional con ORM (Sequelize) y simulaciones de crédito financiero en tiempo real.</i></p>
     </td>
     <td align="center" width="400">
       <img src="https://img.shields.io/badge/Proyecto_Aguacate-111111?style=for-the-badge&logo=foodpanda&logoColor=white" alt="Aguacate" /><br><br>
-      <p><i>Demostración de Frontend inmersivo. Enfoque absoluto en UI/UX moderna, interactividad fluida, diseño responsive y rendimiento óptimo en la web.</i></p>
+      <p><i>Demostración de Frontend inmersivo enfocado en diseño UI/UX de alta calidad, interactividad fluida, adaptabilidad en múltiples dispositivos y rendimiento web optimizado.</i></p>
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@
 <br>
 
 <div align="center">
-  <h3>📊 Estadísticas de GitHub</h3>
+  <h3>Estadísticas de GitHub</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=gersonfocusfwd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="180" alt="stats card" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonfocusfwd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="top langs card" />
   <br>
@@ -111,7 +111,7 @@
 <br>
 
 <div align="center">
-  <h3>📡 Contacto Estelar</h3>
+  <h3>Contacto Estelar</h3>
   <a href="mailto:dinartegerson@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
