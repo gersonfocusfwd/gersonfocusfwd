@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <h3>☄️ Tecnologías & Herramientas del Cosmos</h3>
+  <h3> Tecnologías & Herramientas</h3>
 </div>
 
 <table align="center">
