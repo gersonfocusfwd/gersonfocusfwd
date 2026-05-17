@@ -52,7 +52,7 @@
 <br>
 
 <div align="center">
-  <h2>🚀 Proyectos de Alto Impacto 🚀</h2>
+  <h2> Proyectos de Alto Impacto </h2>
 </div>
 
 <div align="center">
@@ -60,8 +60,10 @@
     <tr>
       <td align="center" width="800">
         <br>
-        <p><b>Impacto Real • Manejo Seguro de Datos • Rendimiento Optimizado</b></p>
-        <p><i>Sistema integral de registro y administración diseñado para un entorno real. Desarrollado con los más altos estándares de calidad, garantizando interfaces intuitivas, escalabilidad y una seguridad estricta en el manejo de datos sensibles.</i></p>
+        <h3>Olimpiadas Especiales Costa Rica</h3>
+        <p><b>Plataforma Web Institucional y Comunitaria</b></p>
+        <p><i>Es una plataforma web institucional y comunitaria dedicada a Olimpiadas Especiales Costa Rica. Su objetivo principal es visibilizar el deporte inclusivo, centralizar la información de las disciplinas, gestionar eventos, captar voluntarios o donaciones, y automatizar los registros de los atletas en el país.</i></p>
+        <p><i>Desarrollo integral realizado tanto en el Front-end como en el Back-end.</i></p>
         <br>
         <img src="https://img.shields.io/badge/Status-Producción-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Status" />
         <img src="https://img.shields.io/badge/Rol-Full_Stack_Developer-1f6feb?style=for-the-badge&logo=react&logoColor=white" alt="Rol" />
