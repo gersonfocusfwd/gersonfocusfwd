@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>Explorando nuevas fronteras digitales y construyendo sistemas de escala galáctica.</p>
+  <p>Desarrollador de software especializado en el diseño e implementación de soluciones robustas, escalables y orientadas a la excelencia técnica.</p>
 </div>
 
 <br>
@@ -76,7 +76,7 @@
 <br>
 
 <div align="center">
-  <h3>Misiones & Conceptos Avanzados</h3>
+  <h3>Proyectos Avanzados & Pruebas de Concepto</h3>
 </div>
 
 <table align="center">
@@ -111,7 +111,7 @@
 <br>
 
 <div align="center">
-  <h3>Contacto Estelar</h3>
+  <h3>Contacto Profesional</h3>
   <a href="mailto:dinartegerson@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>

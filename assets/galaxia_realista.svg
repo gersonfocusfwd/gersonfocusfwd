@@ -69,7 +69,7 @@
 
   <!-- Textos -->
   <text x="500" y="140" text-anchor="middle" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-weight="bold" font-size="60" filter="url(#glow)">Gerson Fuentes</text>
-  <text x="500" y="190" text-anchor="middle" fill="#00FFCC" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="bold">⚡ Full Stack Developer ⚡</text>
+  <text x="500" y="190" text-anchor="middle" fill="#00FFCC" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="bold">Full Stack Developer</text>
   <text x="500" y="230" text-anchor="middle" fill="#cccccc" font-family="'Segoe UI', Arial, sans-serif" font-size="18">Desarrollador Senior | Especialista en Frontend y Backend</text>
 
 </svg>
