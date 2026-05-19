@@ -4,7 +4,7 @@
   <!-- Grid -->
   <defs>
     <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00ff41" stroke-width="0.5" stroke-opacity="0.2"/>
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#50C878" stroke-width="0.5" stroke-opacity="0.2"/>
     </pattern>
   </defs>
   <rect width="1000" height="300" fill="url(#gridPattern)" />
@@ -18,31 +18,31 @@
 
   <defs>
     <radialGradient id="scanGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="0%" stop-color="#39ff14" stop-opacity="0.4"/>
+      <stop offset="0%" stop-color="#50C878" stop-opacity="0.4"/>
       <stop offset="100%" stop-color="transparent" stop-opacity="0"/>
     </radialGradient>
     
     <!-- Radar Sweep -->
     <linearGradient id="sweepGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#39ff14" stop-opacity="0"/>
-        <stop offset="100%" stop-color="#39ff14" stop-opacity="0.8"/>
+        <stop offset="0%" stop-color="#50C878" stop-opacity="0"/>
+        <stop offset="100%" stop-color="#50C878" stop-opacity="0.8"/>
     </linearGradient>
   </defs>
 
   <!-- Point generation -->
-  <circle r="3" fill="#39ff14">
+  <circle r="3" fill="#50C878">
     <animate attributeName="cx" values="200;200" dur="1s" repeatCount="indefinite" />
     <animate attributeName="cy" values="100;100" dur="1s" repeatCount="indefinite" />
     <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
   </circle>
-  <circle r="3" fill="#39ff14">
+  <circle r="3" fill="#50C878">
     <animate attributeName="cx" values="700;700" dur="1s" repeatCount="indefinite" />
     <animate attributeName="cy" values="200;200" dur="1s" repeatCount="indefinite" />
     <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
   </circle>
 
   <!-- Center -->
-  <circle cx="500" cy="150" r="5" fill="#39ff14">
+  <circle cx="500" cy="150" r="5" fill="#50C878">
     <animate attributeName="r" values="4;6;4" dur="1s" repeatCount="indefinite" />
   </circle>
 </svg>

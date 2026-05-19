@@ -31,11 +31,11 @@
 
   <!-- Partículas Lentas -->
   <g>
-    <circle r="0.8" fill="white">
+    <circle r="0.8" fill="#50C878">
       <animate attributeName="cx" from="1100" to="-100" dur="25s" repeatCount="indefinite" begin="0s" />
       <animate attributeName="cy" values="50;60;50" dur="12s" repeatCount="indefinite" />
     </circle>
-    <circle r="0.6" fill="#DDEEFF">
+    <circle r="0.6" fill="#50C878">
       <animate attributeName="cx" from="1100" to="-100" dur="30s" repeatCount="indefinite" begin="-5s" />
       <animate attributeName="cy" values="250;240;250" dur="15s" repeatCount="indefinite" />
     </circle>
@@ -43,11 +43,11 @@
 
   <!-- Partículas Medianas con Glow -->
   <g filter="url(#glow)">
-    <circle r="1.2" fill="white">
+    <circle r="1.2" fill="#50C878">
       <animate attributeName="cx" from="1100" to="-100" dur="15s" repeatCount="indefinite" begin="-2s" />
       <animate attributeName="cy" values="100;120;100" dur="8s" repeatCount="indefinite" />
     </circle>
-    <circle r="1.5" fill="#FFFACD">
+    <circle r="1.5" fill="#50C878">
       <animate attributeName="cx" from="1100" to="-100" dur="18s" repeatCount="indefinite" begin="-10s" />
       <animate attributeName="cy" values="150;130;150" dur="10s" repeatCount="indefinite" />
     </circle>
@@ -55,14 +55,14 @@
 
   <!-- Partículas Rápidas -->
   <g>
-    <rect width="10" height="1.5" fill="white" opacity="0.6">
+    <rect width="10" height="1.5" fill="#50C878" opacity="0.6">
       <animate attributeName="x" from="1100" to="-100" dur="6s" repeatCount="indefinite" begin="-1s" />
       <animate attributeName="y" values="200;205;200" dur="4s" repeatCount="indefinite" />
     </rect>
   </g>
 
   <!-- Cometa -->
-  <path d="M 0 0 L 50 2" stroke="white" stroke-width="1" opacity="0">
+  <path d="M 0 0 L 50 2" stroke="#50C878" stroke-width="1" opacity="0">
     <animate attributeName="d" values="M 1100 50 L 1150 52; M -200 150 L -150 152" dur="3s" repeatCount="indefinite" begin="7s" />
     <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite" begin="7s" />
   </path>
@@ -70,6 +70,6 @@
   <!-- Textos -->
   <text x="500" y="140" text-anchor="middle" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-weight="bold" font-size="60" filter="url(#glow)">Gerson Fuentes</text>
   <text x="500" y="190" text-anchor="middle" fill="#00FFCC" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="bold">Full Stack Developer</text>
-  <text x="500" y="230" text-anchor="middle" fill="#cccccc" font-family="'Segoe UI', Arial, sans-serif" font-size="18">Desarrollador Senior | Especialista en Frontend y Backend</text>
+  <text x="500" y="230" text-anchor="middle" fill="#cccccc" font-family="'Segoe UI', Arial, sans-serif" font-size="18">Desarrollador | Especialista en Frontend y Backend</text>
 
 </svg>
