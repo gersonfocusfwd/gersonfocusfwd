@@ -7,7 +7,7 @@ const FondoRadar = () => {
 
   // Función para colocar pequeños destellos aleatorios en el grid
   const generarPuntosAleatorios = () => {
-    const nuevosPuntos = Array.from({ length: 5 }, () => ({
+    const nuevosPuntos = Array.from({ length: 12 }, () => ({
       id: Math.random(),
       x: Math.floor(Math.random() * 100),
       y: Math.floor(Math.random() * 100),
