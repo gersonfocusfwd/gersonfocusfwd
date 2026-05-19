@@ -20,15 +20,15 @@
   <!-- Partículas/Estrellas en Movimiento (Simulando viaje espacial) -->
   <!-- Capa 1: Lentas/Pequeñas -->
   <g>
-    <circle r="0.8" fill="#50C878">
+    <circle r="1.8" fill="#B9F2FF" opacity="0.8">
       <animate attributeName="cx" from="1100" to="-100" dur="20s" repeatCount="indefinite" begin="0s" />
       <animate attributeName="cy" values="50;55;50" dur="10s" repeatCount="indefinite" />
     </circle>
-    <circle r="0.5" fill="#50C878">
+    <circle r="1.5" fill="#7DF9FF" opacity="0.7">
       <animate attributeName="cx" from="1100" to="-100" dur="25s" repeatCount="indefinite" begin="-5s" />
       <animate attributeName="cy" values="200;190;200" dur="12s" repeatCount="indefinite" />
     </circle>
-    <circle r="0.7" fill="#50C878">
+    <circle r="1.6" fill="#B9F2FF" opacity="0.75">
       <animate attributeName="cx" from="1100" to="-100" dur="22s" repeatCount="indefinite" begin="-12s" />
       <animate attributeName="cy" values="350;360;350" dur="15s" repeatCount="indefinite" />
     </circle>
@@ -36,11 +36,11 @@
 
   <!-- Capa 2: Medianas/Velocidad Media -->
   <g>
-    <circle r="1.2" fill="#50C878">
+    <circle r="2.2" fill="#7DF9FF" opacity="0.85">
       <animate attributeName="cx" from="1100" to="-100" dur="12s" repeatCount="indefinite" begin="-2s" />
       <animate attributeName="cy" values="100;110;100" dur="8s" repeatCount="indefinite" />
     </circle>
-    <circle r="1" fill="#50C878">
+    <circle r="2.0" fill="#B9F2FF" opacity="0.8">
       <animate attributeName="cx" from="1100" to="-100" dur="15s" repeatCount="indefinite" begin="-8s" />
       <animate attributeName="cy" values="300;280;300" dur="10s" repeatCount="indefinite" />
     </circle>
@@ -48,11 +48,11 @@
 
   <!-- Capa 3: Grandes/Rápidas (Efecto Parallax) -->
   <g>
-    <circle r="1.8" fill="#50C878" opacity="0.8">
+    <circle r="2.8" fill="#7DF9FF" opacity="0.9">
       <animate attributeName="cx" from="1100" to="-100" dur="6s" repeatCount="indefinite" begin="-1s" />
       <animate attributeName="cy" values="150;160;150" dur="5s" repeatCount="indefinite" />
     </circle>
-    <circle r="1.5" fill="#50C878" opacity="0.6">
+    <circle r="2.5" fill="#B9F2FF" opacity="0.85">
       <animate attributeName="cx" from="1100" to="-100" dur="8s" repeatCount="indefinite" begin="-4s" />
       <animate attributeName="cy" values="250;240;250" dur="6s" repeatCount="indefinite" />
     </circle>
@@ -60,7 +60,7 @@
 
   <!-- Texto Principal -->
   <text x="500" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="60">Gerson Fuentes</text>
-  <text x="500" y="230" text-anchor="middle" fill="#00FFCC" font-family="Arial, sans-serif" font-size="24" font-weight="bold">⚡ Full Stack Developer ⚡</text>
+  <text x="500" y="230" text-anchor="middle" fill="#00E5FF" font-family="Arial, sans-serif" font-size="24" font-weight="bold">⚡ Full Stack Developer ⚡</text>
   <text x="500" y="270" text-anchor="middle" fill="#cccccc" font-family="Arial, sans-serif" font-size="18">Desarrollador | Especialista en Frontend y Backend</text>
 
 </svg>

@@ -4,24 +4,30 @@
   
   <!-- Estrellas/Partículas de fondo -->
   <g>
-    <circle cx="100" cy="50" r="1" fill="#50C878" opacity="0.3">
-        <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite" />
+    <circle cx="100" cy="50" r="2.0" fill="#B9F2FF" opacity="0.4">
+        <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite" />
     </circle>
-    <circle cx="800" cy="300" r="1" fill="#50C878" opacity="0.2">
-        <animate attributeName="opacity" values="0.1;0.4;0.1" dur="5s" repeatCount="indefinite" />
+    <circle cx="800" cy="300" r="1.8" fill="#7DF9FF" opacity="0.3">
+        <animate attributeName="opacity" values="0.1;0.5;0.1" dur="5s" repeatCount="indefinite" />
     </circle>
-    <circle cx="300" cy="250" r="1.2" fill="#50C878" opacity="0.4">
-        <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite" />
+    <circle cx="300" cy="250" r="2.2" fill="#B9F2FF" opacity="0.5">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite" />
     </circle>
-    <circle cx="600" cy="100" r="1" fill="#50C878" opacity="0.1">
-        <animate attributeName="opacity" values="0.1;0.3;0.1" dur="6s" repeatCount="indefinite" />
+    <circle cx="600" cy="100" r="1.8" fill="#7DF9FF" opacity="0.2">
+        <animate attributeName="opacity" values="0.1;0.4;0.1" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="150" cy="320" r="2.0" fill="#B9F2FF" opacity="0.4">
+        <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="850" cy="80" r="2.2" fill="#7DF9FF" opacity="0.35">
+        <animate attributeName="opacity" values="0.15;0.75;0.15" dur="3.5s" repeatCount="indefinite" />
     </circle>
   </g>
 
   <!-- Círculos del Radar -->
-  <circle cx="500" cy="200" r="50" stroke="#50C878" stroke-width="0.5" stroke-opacity="0.2" />
-  <circle cx="500" cy="200" r="100" stroke="#50C878" stroke-width="0.5" stroke-opacity="0.15" />
-  <circle cx="500" cy="200" r="150" stroke="#50C878" stroke-width="0.5" stroke-opacity="0.1" />
+  <circle cx="500" cy="200" r="50" stroke="#00E5FF" stroke-width="0.5" stroke-opacity="0.25" />
+  <circle cx="500" cy="200" r="100" stroke="#00E5FF" stroke-width="0.5" stroke-opacity="0.2" />
+  <circle cx="500" cy="200" r="150" stroke="#00E5FF" stroke-width="0.5" stroke-opacity="0.15" />
   
   <!-- Línea de Escaneo (Radar) -->
   <g>
@@ -30,25 +36,28 @@
     </line>
     <defs>
       <linearGradient id="radarGradient" x1="500" y1="200" x2="500" y2="50" gradientUnits="userSpaceOnUse">
-        <stop offset="0" stop-color="#50C878" stop-opacity="0"/>
-        <stop offset="1" stop-color="#50C878" stop-opacity="1"/>
+        <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+        <stop offset="1" stop-color="#B9F2FF" stop-opacity="1"/>
       </linearGradient>
     </defs>
   </g>
 
   <!-- Puntos de Datos (Data Points) parpadeantes -->
-  <circle cx="460" cy="140" r="2" fill="#50C878">
-    <animate attributeName="opacity" values="0.1;1;0.1" dur="2.5s" repeatCount="indefinite" />
+  <circle cx="460" cy="140" r="3.5" fill="#B9F2FF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite" />
   </circle>
-  <circle cx="560" cy="240" r="2.5" fill="#50C878">
-    <animate attributeName="opacity" values="0.1;0.8;0.1" dur="1.8s" repeatCount="indefinite" />
+  <circle cx="560" cy="240" r="4.0" fill="#7DF9FF">
+    <animate attributeName="opacity" values="0.15;0.9;0.15" dur="1.8s" repeatCount="indefinite" />
   </circle>
-  <circle cx="420" cy="220" r="1.5" fill="#50C878">
-    <animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.2s" repeatCount="indefinite" />
+  <circle cx="420" cy="220" r="3.0" fill="#B9F2FF">
+    <animate attributeName="opacity" values="0.1;0.95;0.1" dur="3.2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="580" cy="130" r="3.5" fill="#7DF9FF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.1s" repeatCount="indefinite" />
   </circle>
 
   <!-- Glow Central -->
-  <circle cx="500" cy="200" r="10" fill="#50C878" opacity="0.2">
-    <animate attributeName="r" values="8;12;8" dur="2s" repeatCount="indefinite" />
+  <circle cx="500" cy="200" r="10" fill="#00E5FF" opacity="0.25">
+    <animate attributeName="r" values="8;13;8" dur="2s" repeatCount="indefinite" />
   </circle>
 </svg>

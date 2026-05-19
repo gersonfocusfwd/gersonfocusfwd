@@ -19,22 +19,22 @@
 
   <!-- Estrellas Animadas -->
   <g>
-    <circle r="1" fill="#50C878">
+    <circle r="2.0" fill="#B9F2FF">
       <animate attributeName="cx" values="100;105;100" dur="4s" repeatCount="indefinite" />
       <animate attributeName="cy" values="50;55;50" dur="4s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite" />
     </circle>
-    <circle r="1.2" fill="#50C878">
+    <circle r="2.4" fill="#7DF9FF">
       <animate attributeName="cx" values="850;845;850" dur="6s" repeatCount="indefinite" />
       <animate attributeName="cy" values="150;155;150" dur="6s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.3;0.8;0.3" dur="6s" repeatCount="indefinite" />
     </circle>
-    <circle r="0.8" fill="#50C878">
+    <circle r="1.8" fill="#B9F2FF">
       <animate attributeName="cx" values="400;400" dur="1s" repeatCount="indefinite" />
       <animate attributeName="cy" values="300;300" dur="1s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.1;0.6;0.1" dur="5s" repeatCount="indefinite" />
     </circle>
-    <circle r="1" fill="#50C878">
+    <circle r="2.2" fill="#7DF9FF">
       <animate attributeName="cx" values="600;600" dur="1s" repeatCount="indefinite" />
       <animate attributeName="cy" values="100;100" dur="1s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite" />
@@ -43,23 +43,23 @@
 
   <!-- Radar -->
   <g opacity="0.4">
-    <circle cx="500" cy="200" r="100" stroke="#50C878" stroke-width="0.5" stroke-opacity="0.3" />
-    <circle cx="500" cy="200" r="150" stroke="#50C878" stroke-width="0.5" stroke-opacity="0.2" />
-    <line x1="500" y1="200" x2="500" y2="50" stroke="#50C878" stroke-width="2">
+    <circle cx="500" cy="200" r="100" stroke="#00E5FF" stroke-width="0.5" stroke-opacity="0.3" />
+    <circle cx="500" cy="200" r="150" stroke="#00E5FF" stroke-width="0.5" stroke-opacity="0.2" />
+    <line x1="500" y1="200" x2="500" y2="50" stroke="#00E5FF" stroke-width="2">
       <animateTransform attributeName="transform" type="rotate" from="0 500 200" to="360 500 200" dur="5s" repeatCount="indefinite" />
     </line>
   </g>
 
   <!-- Texto Principal -->
   <text x="500" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="60">Gerson Fuentes</text>
-  <text x="500" y="230" text-anchor="middle" fill="#50C878" font-family="Arial, sans-serif" font-size="24" font-weight="bold">⚡ Full Stack Developer ⚡</text>
+  <text x="500" y="230" text-anchor="middle" fill="#00E5FF" font-family="Arial, sans-serif" font-size="24" font-weight="bold">⚡ Full Stack Developer ⚡</text>
   <text x="500" y="270" text-anchor="middle" fill="#cccccc" font-family="Arial, sans-serif" font-size="18">📟 Desarrollador | Especialista en Frontend y Backend 📟</text>
 
   <!-- Puntos de Datos -->
-  <circle cx="450" cy="150" r="2" fill="#50C878">
+  <circle cx="450" cy="150" r="3.5" fill="#B9F2FF">
     <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
   </circle>
-  <circle cx="580" cy="250" r="2" fill="#50C878">
+  <circle cx="580" cy="250" r="3.5" fill="#B9F2FF">
     <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
   </circle>
 </svg>
